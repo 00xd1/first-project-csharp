@@ -1,0 +1,14 @@
+Z:\00xd1\C#\first-project-csharp\bin\Debug\net8.0\first-project-csharp.exe
+Z:\00xd1\C#\first-project-csharp\bin\Debug\net8.0\first-project-csharp.deps.json
+Z:\00xd1\C#\first-project-csharp\bin\Debug\net8.0\first-project-csharp.runtimeconfig.json
+Z:\00xd1\C#\first-project-csharp\bin\Debug\net8.0\first-project-csharp.dll
+Z:\00xd1\C#\first-project-csharp\bin\Debug\net8.0\first-project-csharp.pdb
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.AssemblyInfoInputs.cache
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.AssemblyInfo.cs
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.csproj.CoreCompileInputs.cache
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.dll
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\refint\first-project-csharp.dll
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.pdb
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\first-project-csharp.genruntimeconfig.cache
+Z:\00xd1\C#\first-project-csharp\obj\Debug\net8.0\ref\first-project-csharp.dll
